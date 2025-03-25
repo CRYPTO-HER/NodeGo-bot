@@ -12,7 +12,7 @@ Automate farming NodeGo.ai with our auto bot! 🚀 Farm supports multi-account, 
 
 # 🎉 NodeGo is Ready! 🎉
 
-We’ve released software for farming Gradient:
+We’ve released software for farming NodeGo:
 
 
 - 🔥 AVAILABLE ONLY paid version
